@@ -1,0 +1,4 @@
+poetry.lock
+verifylm/credentials.json
+verifylm/__pycache__
+tests/__pycache__
