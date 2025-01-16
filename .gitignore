@@ -2,3 +2,5 @@ poetry.lock
 verifylm/credentials.json
 verifylm/__pycache__
 tests/__pycache__
+.pytest_cache
+dist
